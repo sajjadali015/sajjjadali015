@@ -1,4 +1,4 @@
-# Hi 👋, I'm John
+# Hi 👋, I'm Sajjad Ali
 
 🚀 Software Developer
 
